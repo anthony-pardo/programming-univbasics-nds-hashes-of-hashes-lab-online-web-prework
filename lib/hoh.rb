@@ -30,11 +30,11 @@
 #   sub_category: nil
 # }
 PORTION_1 = {
-  Label: "Kingdom",
+  label: "Kingdom",
   sub_category: {
-    Label: "Phylum",
+    label: "Phylum",
     sub_category: {
-      Label: "Class"
+      label: "Class"
     }
   }
 }
