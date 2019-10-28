@@ -29,6 +29,15 @@
 #   label: "Species",
 #   sub_category: nil
 # }
+PORTION_1 = {
+  Label: "Kingdom",
+  sub_category: {
+    Label: "Phylum",
+    sub_category: {
+      Label: "Class"
+    }
+  }
+}
 
 def naming_system
   # Remember:
